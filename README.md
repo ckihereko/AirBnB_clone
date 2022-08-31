@@ -263,19 +263,17 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Ayomide Suara</summary>
+    <summary>Ashley Linda</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/nduti-lee">Github</a></li>
+    <li><a href="lindaashlee06@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Bamidele Adefolaju</summary>
+    <summary>Chris Kihereko</summary>
     <ul>
-    <li><a href="https://www.github.com/lexxyla">Github</a></li>
-    <li><a href="https://www.twitter.com/lexxyla">Twitter</a></li>
-    <li><a href="mailto:bamideleadefolaju@gmail.com">e-mail</a></li>
+    <li><a href="https://github.com/ckihereko">Github</a></li>
+    <li><a href="@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
